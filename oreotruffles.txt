@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+
+<html>
+        
+    <head><title>Oreo Truffles Recipe</title></head>
+
+    <body>
+        <h1>
+        Oreo Truffles
+        </h1>
+            
+        <p>
+        Below are the ingredients to make the perfect Oreo Truffle balls.
+        </p>
+            
+        <h2>
+        Ingredients
+        </h2>
+        <ul>
+        <li>1 pack of regular oreos</li>
+        <li>1 8oz tub of cream cheese</li>
+        <li>milk chocolage almond bark**</li>
+        <li>white chocolate almond bark**</li>
+        </ul>
+        <p>**Note: Click on the picture below to see which almond bark brand I like to use and where to buy:</p>
+        <a href=https://www.walmart.com/ip/Plymouth-Pantry-Almond-Bark-Chocolate-Baking-Bar-24-oz/10313776><img src=https://i5.walmartimages.com/asr/a4e55f72-1ba4-4348-87b7-3e0e1008cb9c_1.6ed2ae97061d4d9442623f66ee0fa0b8.jpeg></a>
+        
+        <h2>
+        Materials
+        </h2>
+        <ul>
+        <li>1 freezer bag</li>
+        <li>rolling pin</li>
+        <li>1 mixing bowl and mixing spoon</li>
+        <li>2 pots</li>
+        <li>toothpicks</li>
+        <li>tray and wax paper</li>
+        <li>sandwich bag or icing bag</li>
+        </ul>
+            
+            
+        <h2>
+        Directions
+        </h2>
+        
+        <h3>
+        Creating the Balls
+        </h3>
+        <ol>
+        <li>Place the pack of Oreos in the freezer bag, seal the freezer bag, and crush thoroughly with rolling pin.</li>
+        <li>In the mixing bowl, mix together crushed oreos and the tub of cream cheese with the mixing spoon.</li>
+        <li>Using clean hands, take some of the mixture and roll it into a truffle-sized ball. Place on wax paper on tray.</li>
+        <li>Repeat Step 3 until all of mixture is used.</li>
+        <li>Place in refrigerator to solidify for 15 minutes.</li>
+        </ol>
+        
+        <h3>
+        Making the Truffles
+        </h3>
+        <ol>
+        <li>Melt milk chocolate almond bark in a pot.</li>
+        <li>Take out tray of oreo balls from refrigerator after cooling for 15 minutes.</li>
+        <li>Using the toothpicks, pick up and dip each oreo ball in the melted almond bark until fully covered. Place back on wax paper on tray.</li>
+        <li>After dipping all oreo balls, place tray back in refrigerator for 20 minutes to solidify.</li>
+        <li>Melt white chocolate almond bark in a pot.</li>
+        <li>After 20 minutes, take out oreo truffles.</li>
+        <li>Pour melted white chocolate almond bark into sandwich or icing bag. Cut a corner off the sandwich bag or cut the tip of the icing bag. Drizzle melted white chocolage bark onto oreo truffles.</li>
+        <li>Refrigerate oreo truffles overnight. They will be ready for consumption.</li>
+        </ol>
+        
+        <h3>
+        Enjoy your oreo truffles!!
+        </h3>
+        <p>*Just as a note, oreo truffles can be made with all different types of dippings and toppings. Try it out!*</p>
+        <img src=https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/10/28/0/FNK_Oreo-Truffles_H1_s4x3.jpg.rend.hgtvcom.826.620.suffix/1572274427236.jpeg>
+
+        <h2>Resources</h2>
+        <ul>
+            <li><a href=https://thecozycook.com/no-bake-oreo-truffles-cookbook-giveaway/>The Cozy Cook</a></li>
+            <li><a href=https://www.chef-in-training.com/no-bake-oreo-truffles/>Chef in Training</a></li>
+        </ul>
+    </body>
+
+</html>
